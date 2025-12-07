@@ -79,7 +79,7 @@ Users are encouraged to **cite current versions explicitly** (see below).
 If you use this framework, please reference it as follows:
 
 > Kodama, Eiji (2025). *Techno-Animist Ethics Framework: US Letter / IEEE-Inspired Edition*. GitHub Repository. CC-BY 4.0.  
-> https://github.com/cospira-arch/TechnoAnimist-Ethics-Framework
+   > https://github.com/cospira-arch/TechnoAnimism-Ethics-Framework
 
 
 A formalized machine-readable citation is included in `CITATION.cff`.
