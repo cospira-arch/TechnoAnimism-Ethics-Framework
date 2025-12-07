@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as follows."
+authors:
+  - family-names: Kodama
+    given-names: Eiji
+title: Techno-Animist Ethics Framework: US Letter / IEEE-Inspired Edition
+abstract: >
+  A formatting and methodological artifact supporting relational ontology,
+  boundary work ethics, and techno-animistic philosophy.
+date-released: 2025-02-XX
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/USERNAME/TechnoAnimist-Ethics-Framework"
+doi: 10.5281/zenodo.XXXXX
