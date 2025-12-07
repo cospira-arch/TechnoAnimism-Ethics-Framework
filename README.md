@@ -79,9 +79,8 @@ Users are encouraged to **cite current versions explicitly** (see below).
 If you use this framework, please reference it as follows:
 
 > Kodama, Eiji (2025). *Techno-Animist Ethics Framework: US Letter / IEEE-Inspired Edition*. GitHub Repository. CC-BY 4.0.  
-> https://github.com/USERNAME/TechnoAnimist-Ethics-Framework
+> https://github.com/cospira-arch/TechnoAnimist-Ethics-Framework
 
-(Replace `USERNAME` with your GitHub handle.)
 
 A formalized machine-readable citation is included in `CITATION.cff`.
 
@@ -137,7 +136,7 @@ The existence of this repo is therefore both **philosophical expression and ethi
 
 ## 📬 Contact
 
-Eiji Kodama — CoSpira Project  
+Eiji(英二) Kodama(児玉) — CoSpira Project  
 Email: cospira2025@gmail.com  
-Twitter / X: https://x.com/eiji_cospira
+Twitter / X: https://x.com/@cospira2025
 
